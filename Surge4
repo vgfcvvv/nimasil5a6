@@ -1,0 +1,276 @@
+#!MANAGED-CONFIG https://sub.con8.tk/sub?ver=4&config=https%3A%2F%2Fgist.githubusercontent.com%2Ftindy2013%2F1fa08640a9088ac8652dbd40c5d2715b%2Fraw%2Fconnershua_new.ini&url=vmess%3A%2F%2FeyJhZGQiOiJjbS5jaGVhcHYyLnh5eiIsImFpZCI6IjIiLCJob3N0IjoiY20uY2hlYXB2Mi54eXoiLCJpZCI6IjY3ZGYyNmU0LTM1ZWItM2EzNi04NmNiLTUyMDM0ZWUxOTlmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbmRleCIsInBvcnQiOiIyNjYxNyIsInBzIjoidjJyYXkg5Y%2Bw5rm%2BKOenu%2BWKqCkgW05ldGZsaXhdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9%7Cvmess%3A%2F%2FeyJhZGQiOiJjdS5jaGVhcHYyLnh5eiIsImFpZCI6IjIiLCJob3N0IjoiY3UuY2hlYXB2Mi54eXoiLCJpZCI6IjY3ZGYyNmU0LTM1ZWItM2EzNi04NmNiLTUyMDM0ZWUxOTlmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbmRleCIsInBvcnQiOiIyNjYxNyIsInBzIjoidjJyYXkg5Y%2Bw5rm%2BKOiBlOmAmikgW05ldGZsaXhdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9%7Cvmess%3A%2F%2FeyJhZGQiOiJjbTIuY2hlYXB2Mi54eXoiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiNjdkZjI2ZTQtMzVlYi0zYTM2LTg2Y2ItNTIwMzRlZTE5OWYzIiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6IjI2NjAzIiwicHMiOiJ2MnJheSDmlrDliqDlnaEo56e75YqoKSBbTmV0ZmxpeF0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0%3D%7Cvmess%3A%2F%2FeyJhZGQiOiJjdS5jaGVhcHYyLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI2N2RmMjZlNC0zNWViLTNhMzYtODZjYi01MjAzNGVlMTk5ZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMjY2MDMiLCJwcyI6InYycmF5IOaWsOWKoOWdoSjogZTpgJopIFtOZXRmbGl4XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ%3D%3D%7Cvmess%3A%2F%2FeyJhZGQiOiJjbTIuY2hlYXB2Mi54eXoiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiNjdkZjI2ZTQtMzVlYi0zYTM2LTg2Y2ItNTIwMzRlZTE5OWYzIiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6IjI2NjAxIiwicHMiOiJ2MnJheSDml6XmnKwo56e75YqoKSBbTmV0ZmxpeF0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0%3D%7Cvmess%3A%2F%2FeyJhZGQiOiJjdS5jaGVhcHYyLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI2N2RmMjZlNC0zNWViLTNhMzYtODZjYi01MjAzNGVlMTk5ZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMjY2MDEiLCJwcyI6InYycmF5IOaXpeacrCjogZTpgJopIFtOZXRmbGl4XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ%3D%3D%7Cvmess%3A%2F%2FeyJhZGQiOiJjbS5jaGVhcHYyLnh5eiIsImFpZCI6IjIiLCJob3N0IjoiY20uY2hlYXB2Mi54eXoiLCJpZCI6IjY3ZGYyNmU0LTM1ZWItM2EzNi04NmNiLTUyMDM0ZWUxOTlmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbmRleCIsInBvcnQiOiIyMzMwOCIsInBzIjoidjJyYXkg576O5Zu9KOenu%2BWKqCkgW05ldGZsaXhdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9%7Cvmess%3A%2F%2FeyJhZGQiOiJjdS5jaGVhcHYyLnh5eiIsImFpZCI6IjIiLCJob3N0IjoiY3UuY2hlYXB2Mi54eXoiLCJpZCI6IjY3ZGYyNmU0LTM1ZWItM2EzNi04NmNiLTUyMDM0ZWUxOTlmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbmRleCIsInBvcnQiOiIyMzMwOCIsInBzIjoidjJyYXkg576O5Zu9KOiBlOmAmikgW05ldGZsaXhdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9%7Cvmess%3A%2F%2FeyJhZGQiOiJjbS5jaGVhcHYyLnh5eiIsImFpZCI6IjIiLCJob3N0IjoiY20uY2hlYXB2Mi54eXoiLCJpZCI6IjY3ZGYyNmU0LTM1ZWItM2EzNi04NmNiLTUyMDM0ZWUxOTlmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbmRleCIsInBvcnQiOiIyNjYwMiIsInBzIjoidjJyYXkg6Z%2Bp5Zu9KOenu%2BWKqCkgW05ldGZsaXhdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9%7Cvmess%3A%2F%2FeyJhZGQiOiJjdS5jaGVhcHYyLnh5eiIsImFpZCI6IjIiLCJob3N0IjoiY3UuY2hlYXB2Mi54eXoiLCJpZCI6IjY3ZGYyNmU0LTM1ZWItM2EzNi04NmNiLTUyMDM0ZWUxOTlmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbmRleCIsInBvcnQiOiIyNjYwMiIsInBzIjoidjJyYXkg6Z%2Bp5Zu9KOiBlOmAmikgW05ldGZsaXhdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9%7Cvmess%3A%2F%2FeyJhZGQiOiJjbS5jaGVhcHYyLnh5eiIsImFpZCI6IjIiLCJob3N0IjoiY20uY2hlYXB2Mi54eXoiLCJpZCI6IjY3ZGYyNmU0LTM1ZWItM2EzNi04NmNiLTUyMDM0ZWUxOTlmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbmRleCIsInBvcnQiOiIyNjYxMiIsInBzIjoidjJyYXkg6aaZ5rivKOenu%2BWKqCkgW05ldGZsaXhdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9%7Cvmess%3A%2F%2FeyJhZGQiOiJjdS5jaGVhcHYyLnh5eiIsImFpZCI6IjIiLCJob3N0IjoiY3UuY2hlYXB2Mi54eXoiLCJpZCI6IjY3ZGYyNmU0LTM1ZWItM2EzNi04NmNiLTUyMDM0ZWUxOTlmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbmRleCIsInBvcnQiOiIyNjYxMiIsInBzIjoidjJyYXkg6aaZ5rivKOiBlOmAmikgW05ldGZsaXhdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9%7Cvmess%3A%2F%2FeyJhZGQiOiJjbS5jaGVhcHYyLnh5eiIsImFpZCI6IjIiLCJob3N0IjoiY20uY2hlYXB2Mi54eXoiLCJpZCI6IjY3ZGYyNmU0LTM1ZWItM2EzNi04NmNiLTUyMDM0ZWUxOTlmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbmRleCIsInBvcnQiOiIyNjYxNiIsInBzIjoidjJyYXkg6aaZ5rivMijnp7vliqgpIFtOZXRmbGl4XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ%3D%3D%7Cvmess%3A%2F%2FeyJhZGQiOiJjdS5jaGVhcHYyLnh5eiIsImFpZCI6IjIiLCJob3N0IjoiY3UuY2hlYXB2Mi54eXoiLCJpZCI6IjY3ZGYyNmU0LTM1ZWItM2EzNi04NmNiLTUyMDM0ZWUxOTlmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbmRleCIsInBvcnQiOiIyNjYxNiIsInBzIjoidjJyYXkg6aaZ5rivMijogZTpgJopIFtOZXRmbGl4XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ%3D%3D%7Cvmess%3A%2F%2FeyJhZGQiOiJjbS5jaGVhcHYyLnh5eiIsImFpZCI6IjIiLCJob3N0IjoiY20uY2hlYXB2Mi54eXoiLCJpZCI6IjY3ZGYyNmU0LTM1ZWItM2EzNi04NmNiLTUyMDM0ZWUxOTlmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbmRleCIsInBvcnQiOiIyMzMxOCIsInBzIjoidjJyYXkg6aaZ5rivSEdDKOenu%2BWKqCkgW05ldGZsaXhdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9%7Cvmess%3A%2F%2FeyJhZGQiOiJjdS5jaGVhcHYyLnh5eiIsImFpZCI6IjIiLCJob3N0IjoiY3UuY2hlYXB2Mi54eXoiLCJpZCI6IjY3ZGYyNmU0LTM1ZWItM2EzNi04NmNiLTUyMDM0ZWUxOTlmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbmRleCIsInBvcnQiOiIyMzMxOCIsInBzIjoidjJyYXkg6aaZ5rivSEdDKOiBlOmAmikgW05ldGZsaXhdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9%7Cvmess%3A%2F%2FeyJhZGQiOiJjbS5jaGVhcHYyLnh5eiIsImFpZCI6IjIiLCJob3N0IjoiY20uY2hlYXB2Mi54eXoiLCJpZCI6IjY3ZGYyNmU0LTM1ZWItM2EzNi04NmNiLTUyMDM0ZWUxOTlmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbmRleCIsInBvcnQiOiIyNjYwOSIsInBzIjoidjJyYXkg6aaZ5rivSEtCTijnp7vliqgpIFtOZXRmbGl4XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ%3D%3D%7Cvmess%3A%2F%2FeyJhZGQiOiJjdS5jaGVhcHYyLnh5eiIsImFpZCI6IjIiLCJob3N0IjoiY3UuY2hlYXB2Mi54eXoiLCJpZCI6IjY3ZGYyNmU0LTM1ZWItM2EzNi04NmNiLTUyMDM0ZWUxOTlmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbmRleCIsInBvcnQiOiIyNjYwOSIsInBzIjoidjJyYXkg6aaZ5rivSEtCTijogZTpgJopIFtOZXRmbGl4XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ%3D%3D%7Cvmess%3A%2F%2FeyJhZGQiOiJjbTUuY2hlYXB2Mi54eXoiLCJhaWQiOiIyIiwiaG9zdCI6ImNtNS5jaGVhcHYyLnh5eiIsImlkIjoiNjdkZjI2ZTQtMzVlYi0zYTM2LTg2Y2ItNTIwMzRlZTE5OWYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL2luZGV4IiwicG9ydCI6IjIzMzM4IiwicHMiOiJ2MnJheSDpppnmuK9IS1Qo56e75YqoKSBbTmV0ZmxpeF0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0%3D%7Cvmess%3A%2F%2FeyJhZGQiOiJjdS5jaGVhcHYyLnh5eiIsImFpZCI6IjIiLCJob3N0IjoiY3UuY2hlYXB2Mi54eXoiLCJpZCI6IjY3ZGYyNmU0LTM1ZWItM2EzNi04NmNiLTUyMDM0ZWUxOTlmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbmRleCIsInBvcnQiOiIyMzMzOCIsInBzIjoidjJyYXkg6aaZ5rivSEtUKOiBlOmAmikgW05ldGZsaXhdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9%7Cvmess%3A%2F%2FeyJhZGQiOiJjdS5jaGVhcHYyLnh5eiIsImFpZCI6IjIiLCJob3N0IjoiY3UuY2hlYXB2Mi54eXoiLCJpZCI6IjY3ZGYyNmU0LTM1ZWItM2EzNi04NmNiLTUyMDM0ZWUxOTlmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbmRleCIsInBvcnQiOiIyNjYxMCIsInBzIjoidjJyYXkg6ams5p2l6KW%2F5LqaKOenu%2BWKqCkgW05ldGZsaXhdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9%7Cvmess%3A%2F%2FeyJhZGQiOiJjdS5jaGVhcHYyLnh5eiIsImFpZCI6IjIiLCJob3N0IjoiY3UuY2hlYXB2Mi54eXoiLCJpZCI6IjY3ZGYyNmU0LTM1ZWItM2EzNi04NmNiLTUyMDM0ZWUxOTlmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbmRleCIsInBvcnQiOiIyNjYxMCIsInBzIjoidjJyYXkg6ams5p2l6KW%2F5LqaKOiBlOmAmikgW05ldGZsaXhdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9%7C&target=surge&insert=false interval=86400 strict=false
+
+[General]
+# 通用设置
+
+# > 增强版 Wi-Fi 助理
+# (在 Wi-Fi 网络不佳时尝试使用数据网络建立连接，请仅当使用不限量的数据流量时开启)
+wifi-assist = false
+
+# > Internet 测试 URL
+internet-test-url = http://wifi.vivo.com.cn/generate_204
+# > 代理测速 URL
+proxy-test-url = http://cp.cloudflare.com/generate_204
+# > 测试超时（秒）
+test-timeout = 5
+
+# > TLS 引擎
+tls-provider = openssl
+
+# > 自定义 GeoIP 数据库
+geoip-maxmind-url = https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb
+
+# > IPv6 支持（默认关闭）
+ipv6 = false
+
+# > 允许 Wi-Fi 访问 (仅 iOS，若允许远程访问将「false」改为「true」)
+allow-wifi-access = false
+wifi-access-http-port = 6152
+wifi-access-socks5-port = 6153
+# > 允许 Wi-Fi 访问 (仅 macOS，若允许远程访问将「127.0.0.1」改为「0.0.0.0」)
+http-listen = 127.0.0.1:6152
+socks5-listen = 127.0.0.1:6153
+
+# > 兼容模式 (仅 iOS)
+# compatibility-mode = 0
+# > 跳过代理
+skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, localhost, *.local, passenger.t3go.cn
+# > 排除简单主机名
+exclude-simple-hostnames = true
+
+# > Network framwork
+network-framework = false
+
+# > DNS 服务器 (如无必要不建议使用 DNS over HTTPS)
+dns-server = 119.29.29.29,system
+# > 从 /etc/hosts 读取 DNS 记录
+read-etc-hosts = true
+
+# 高级设置
+
+# > 日志级别
+loglevel = notify
+
+# > 当遇到 REJECT 策略时返回错误页
+show-error-page-for-reject = true
+
+# > Always Real IP Hosts
+always-real-ip = *.msftconnecttest.com, *.msftncsi.com, *.srv.nintendo.net, *.stun.playstation.net, xbox.*.microsoft.com, *.xboxlive.com, *.logon.battlenet.com.cn, *.logon.battle.net, stun.l.google.com
+
+# > VIF Excluded Routes
+tun-excluded-routes = 239.255.255.250/32
+
+# 如果没有代理服务器支持 UDP 转发，可修改为「 direct 」或注释下条，但需注意同一目标主机名 TCP 请求与 UDP 请求的源地址不同所造成的隐私及安全风险。
+udp-policy-not-supported-behaviour = reject
+
+[Replica]
+# 0 为关闭，1 为开启
+# > 隐藏 Apple 请求
+hide-apple-request = 0
+# > 隐藏崩溃追踪器请求
+hide-crash-reporter-request = 1
+# > 隐藏 UDP 会话
+hide-udp = 0
+# > 关键词过滤器
+# none（关闭关键词过滤器） / whitelist（blacklist（仅记录包含关键字的请求）） / blacklist（仅记录不包含关键字的请求） / pattern（匹配通配符的请求）
+# keyword-filter-type = none
+# > 关键词
+# keyword-filter = (null)
+
+[Proxy]
+DIRECT = direct
+🇹🇼 v2ray 台湾(移动) [Netflix] = vmess, cm.cheapv2.xyz, 26617, username=67df26e4-35eb-3a36-86cb-52034ee199f3, tls=false, ws=true, ws-path=/index, sni=cm.cheapv2.xyz, ws-headers=Host:cm.cheapv2.xyz
+🇹🇼 v2ray 台湾(联通) [Netflix] = vmess, cu.cheapv2.xyz, 26617, username=67df26e4-35eb-3a36-86cb-52034ee199f3, tls=false, ws=true, ws-path=/index, sni=cu.cheapv2.xyz, ws-headers=Host:cu.cheapv2.xyz
+🇸🇬 v2ray 新加坡(移动) [Netflix] = vmess, cm2.cheapv2.xyz, 26603, username=67df26e4-35eb-3a36-86cb-52034ee199f3, tls=false, ws=true, ws-path=/, sni=cm2.cheapv2.xyz, ws-headers=Host:cm2.cheapv2.xyz
+🇸🇬 v2ray 新加坡(联通) [Netflix] = vmess, cu.cheapv2.xyz, 26603, username=67df26e4-35eb-3a36-86cb-52034ee199f3, tls=false, ws=true, ws-path=/, sni=cu.cheapv2.xyz, ws-headers=Host:cu.cheapv2.xyz
+🇯🇵 v2ray 日本(移动) [Netflix] = vmess, cm2.cheapv2.xyz, 26601, username=67df26e4-35eb-3a36-86cb-52034ee199f3, tls=false, ws=true, ws-path=/, sni=cm2.cheapv2.xyz, ws-headers=Host:cm2.cheapv2.xyz
+🇯🇵 v2ray 日本(联通) [Netflix] = vmess, cu.cheapv2.xyz, 26601, username=67df26e4-35eb-3a36-86cb-52034ee199f3, tls=false, ws=true, ws-path=/, sni=cu.cheapv2.xyz, ws-headers=Host:cu.cheapv2.xyz
+🇺🇸 v2ray 美国(移动) [Netflix] = vmess, cm.cheapv2.xyz, 23308, username=67df26e4-35eb-3a36-86cb-52034ee199f3, tls=false, ws=true, ws-path=/index, sni=cm.cheapv2.xyz, ws-headers=Host:cm.cheapv2.xyz
+🇺🇸 v2ray 美国(联通) [Netflix] = vmess, cu.cheapv2.xyz, 23308, username=67df26e4-35eb-3a36-86cb-52034ee199f3, tls=false, ws=true, ws-path=/index, sni=cu.cheapv2.xyz, ws-headers=Host:cu.cheapv2.xyz
+🇰🇷 v2ray 韩国(移动) [Netflix] = vmess, cm.cheapv2.xyz, 26602, username=67df26e4-35eb-3a36-86cb-52034ee199f3, tls=false, ws=true, ws-path=/index, sni=cm.cheapv2.xyz, ws-headers=Host:cm.cheapv2.xyz
+🇰🇷 v2ray 韩国(联通) [Netflix] = vmess, cu.cheapv2.xyz, 26602, username=67df26e4-35eb-3a36-86cb-52034ee199f3, tls=false, ws=true, ws-path=/index, sni=cu.cheapv2.xyz, ws-headers=Host:cu.cheapv2.xyz
+🇭🇰 v2ray 香港(移动) [Netflix] = vmess, cm.cheapv2.xyz, 26612, username=67df26e4-35eb-3a36-86cb-52034ee199f3, tls=false, ws=true, ws-path=/index, sni=cm.cheapv2.xyz, ws-headers=Host:cm.cheapv2.xyz
+🇭🇰 v2ray 香港(联通) [Netflix] = vmess, cu.cheapv2.xyz, 26612, username=67df26e4-35eb-3a36-86cb-52034ee199f3, tls=false, ws=true, ws-path=/index, sni=cu.cheapv2.xyz, ws-headers=Host:cu.cheapv2.xyz
+🇭🇰 v2ray 香港2(移动) [Netflix] = vmess, cm.cheapv2.xyz, 26616, username=67df26e4-35eb-3a36-86cb-52034ee199f3, tls=false, ws=true, ws-path=/index, sni=cm.cheapv2.xyz, ws-headers=Host:cm.cheapv2.xyz
+🇭🇰 v2ray 香港2(联通) [Netflix] = vmess, cu.cheapv2.xyz, 26616, username=67df26e4-35eb-3a36-86cb-52034ee199f3, tls=false, ws=true, ws-path=/index, sni=cu.cheapv2.xyz, ws-headers=Host:cu.cheapv2.xyz
+🇭🇰 v2ray 香港HGC(移动) [Netflix] = vmess, cm.cheapv2.xyz, 23318, username=67df26e4-35eb-3a36-86cb-52034ee199f3, tls=false, ws=true, ws-path=/index, sni=cm.cheapv2.xyz, ws-headers=Host:cm.cheapv2.xyz
+🇭🇰 v2ray 香港HGC(联通) [Netflix] = vmess, cu.cheapv2.xyz, 23318, username=67df26e4-35eb-3a36-86cb-52034ee199f3, tls=false, ws=true, ws-path=/index, sni=cu.cheapv2.xyz, ws-headers=Host:cu.cheapv2.xyz
+🇭🇰 v2ray 香港HKBN(移动) [Netflix] = vmess, cm.cheapv2.xyz, 26609, username=67df26e4-35eb-3a36-86cb-52034ee199f3, tls=false, ws=true, ws-path=/index, sni=cm.cheapv2.xyz, ws-headers=Host:cm.cheapv2.xyz
+🇭🇰 v2ray 香港HKBN(联通) [Netflix] = vmess, cu.cheapv2.xyz, 26609, username=67df26e4-35eb-3a36-86cb-52034ee199f3, tls=false, ws=true, ws-path=/index, sni=cu.cheapv2.xyz, ws-headers=Host:cu.cheapv2.xyz
+🇭🇰 v2ray 香港HKT(移动) [Netflix] = vmess, cm5.cheapv2.xyz, 23338, username=67df26e4-35eb-3a36-86cb-52034ee199f3, tls=false, ws=true, ws-path=/index, sni=cm5.cheapv2.xyz, ws-headers=Host:cm5.cheapv2.xyz
+🇭🇰 v2ray 香港HKT(联通) [Netflix] = vmess, cu.cheapv2.xyz, 23338, username=67df26e4-35eb-3a36-86cb-52034ee199f3, tls=false, ws=true, ws-path=/index, sni=cu.cheapv2.xyz, ws-headers=Host:cu.cheapv2.xyz
+🇲🇾 v2ray 马来西亚(移动) [Netflix] = vmess, cu.cheapv2.xyz, 26610, username=67df26e4-35eb-3a36-86cb-52034ee199f3, tls=false, ws=true, ws-path=/index, sni=cu.cheapv2.xyz, ws-headers=Host:cu.cheapv2.xyz
+🇲🇾 v2ray 马来西亚(联通) [Netflix] = vmess, cu.cheapv2.xyz, 26610, username=67df26e4-35eb-3a36-86cb-52034ee199f3, tls=false, ws=true, ws-path=/index, sni=cu.cheapv2.xyz, ws-headers=Host:cu.cheapv2.xyz
+⛔️Reject = reject
+🌐Direct = direct
+
+[Proxy Group]
+🧭Final = select,🌑Proxy,🌐Direct
+🌑Proxy = select,🧯Fallback,🕹AutoTest,🇹🇼 v2ray 台湾(移动) [Netflix],🇹🇼 v2ray 台湾(联通) [Netflix],🇸🇬 v2ray 新加坡(移动) [Netflix],🇸🇬 v2ray 新加坡(联通) [Netflix],🇯🇵 v2ray 日本(移动) [Netflix],🇯🇵 v2ray 日本(联通) [Netflix],🇺🇸 v2ray 美国(移动) [Netflix],🇺🇸 v2ray 美国(联通) [Netflix],🇰🇷 v2ray 韩国(移动) [Netflix],🇰🇷 v2ray 韩国(联通) [Netflix],🇭🇰 v2ray 香港(移动) [Netflix],🇭🇰 v2ray 香港(联通) [Netflix],🇭🇰 v2ray 香港2(移动) [Netflix],🇭🇰 v2ray 香港2(联通) [Netflix],🇭🇰 v2ray 香港HGC(移动) [Netflix],🇭🇰 v2ray 香港HGC(联通) [Netflix],🇭🇰 v2ray 香港HKBN(移动) [Netflix],🇭🇰 v2ray 香港HKBN(联通) [Netflix],🇭🇰 v2ray 香港HKT(移动) [Netflix],🇭🇰 v2ray 香港HKT(联通) [Netflix],🇲🇾 v2ray 马来西亚(移动) [Netflix],🇲🇾 v2ray 马来西亚(联通) [Netflix]
+🎞Streaming = select,🌑Proxy,🕹AutoTest,🇹🇼 v2ray 台湾(移动) [Netflix],🇹🇼 v2ray 台湾(联通) [Netflix],🇸🇬 v2ray 新加坡(移动) [Netflix],🇸🇬 v2ray 新加坡(联通) [Netflix],🇯🇵 v2ray 日本(移动) [Netflix],🇯🇵 v2ray 日本(联通) [Netflix],🇺🇸 v2ray 美国(移动) [Netflix],🇺🇸 v2ray 美国(联通) [Netflix],🇰🇷 v2ray 韩国(移动) [Netflix],🇰🇷 v2ray 韩国(联通) [Netflix],🇭🇰 v2ray 香港(移动) [Netflix],🇭🇰 v2ray 香港(联通) [Netflix],🇭🇰 v2ray 香港2(移动) [Netflix],🇭🇰 v2ray 香港2(联通) [Netflix],🇭🇰 v2ray 香港HGC(移动) [Netflix],🇭🇰 v2ray 香港HGC(联通) [Netflix],🇭🇰 v2ray 香港HKBN(移动) [Netflix],🇭🇰 v2ray 香港HKBN(联通) [Netflix],🇭🇰 v2ray 香港HKT(移动) [Netflix],🇭🇰 v2ray 香港HKT(联通) [Netflix],🇲🇾 v2ray 马来西亚(移动) [Netflix],🇲🇾 v2ray 马来西亚(联通) [Netflix]
+🎞StreamingSE = select,🌐Direct,🇹🇼 v2ray 台湾(移动) [Netflix],🇹🇼 v2ray 台湾(联通) [Netflix],🇸🇬 v2ray 新加坡(移动) [Netflix],🇸🇬 v2ray 新加坡(联通) [Netflix],🇯🇵 v2ray 日本(移动) [Netflix],🇯🇵 v2ray 日本(联通) [Netflix],🇺🇸 v2ray 美国(移动) [Netflix],🇺🇸 v2ray 美国(联通) [Netflix],🇰🇷 v2ray 韩国(移动) [Netflix],🇰🇷 v2ray 韩国(联通) [Netflix],🇭🇰 v2ray 香港(移动) [Netflix],🇭🇰 v2ray 香港(联通) [Netflix],🇭🇰 v2ray 香港2(移动) [Netflix],🇭🇰 v2ray 香港2(联通) [Netflix],🇭🇰 v2ray 香港HGC(移动) [Netflix],🇭🇰 v2ray 香港HGC(联通) [Netflix],🇭🇰 v2ray 香港HKBN(移动) [Netflix],🇭🇰 v2ray 香港HKBN(联通) [Netflix],🇭🇰 v2ray 香港HKT(移动) [Netflix],🇭🇰 v2ray 香港HKT(联通) [Netflix],🇲🇾 v2ray 马来西亚(移动) [Netflix],🇲🇾 v2ray 马来西亚(联通) [Netflix]
+🎮Game = select,🌐Direct,🇹🇼 v2ray 台湾(移动) [Netflix],🇹🇼 v2ray 台湾(联通) [Netflix],🇸🇬 v2ray 新加坡(移动) [Netflix],🇸🇬 v2ray 新加坡(联通) [Netflix],🇯🇵 v2ray 日本(移动) [Netflix],🇯🇵 v2ray 日本(联通) [Netflix],🇺🇸 v2ray 美国(移动) [Netflix],🇺🇸 v2ray 美国(联通) [Netflix],🇰🇷 v2ray 韩国(移动) [Netflix],🇰🇷 v2ray 韩国(联通) [Netflix],🇭🇰 v2ray 香港(移动) [Netflix],🇭🇰 v2ray 香港(联通) [Netflix],🇭🇰 v2ray 香港2(移动) [Netflix],🇭🇰 v2ray 香港2(联通) [Netflix],🇭🇰 v2ray 香港HGC(移动) [Netflix],🇭🇰 v2ray 香港HGC(联通) [Netflix],🇭🇰 v2ray 香港HKBN(移动) [Netflix],🇭🇰 v2ray 香港HKBN(联通) [Netflix],🇭🇰 v2ray 香港HKT(移动) [Netflix],🇭🇰 v2ray 香港HKT(联通) [Netflix],🇲🇾 v2ray 马来西亚(移动) [Netflix],🇲🇾 v2ray 马来西亚(联通) [Netflix]
+🛡Guard = select,⛔️Reject,🌐Direct
+🧯Fallback = fallback,🇹🇼 v2ray 台湾(移动) [Netflix],🇹🇼 v2ray 台湾(联通) [Netflix],🇸🇬 v2ray 新加坡(移动) [Netflix],🇸🇬 v2ray 新加坡(联通) [Netflix],🇯🇵 v2ray 日本(移动) [Netflix],🇯🇵 v2ray 日本(联通) [Netflix],🇺🇸 v2ray 美国(移动) [Netflix],🇺🇸 v2ray 美国(联通) [Netflix],🇰🇷 v2ray 韩国(移动) [Netflix],🇰🇷 v2ray 韩国(联通) [Netflix],🇭🇰 v2ray 香港(移动) [Netflix],🇭🇰 v2ray 香港(联通) [Netflix],🇭🇰 v2ray 香港2(移动) [Netflix],🇭🇰 v2ray 香港2(联通) [Netflix],🇭🇰 v2ray 香港HGC(移动) [Netflix],🇭🇰 v2ray 香港HGC(联通) [Netflix],🇭🇰 v2ray 香港HKBN(移动) [Netflix],🇭🇰 v2ray 香港HKBN(联通) [Netflix],🇭🇰 v2ray 香港HKT(移动) [Netflix],🇭🇰 v2ray 香港HKT(联通) [Netflix],🇲🇾 v2ray 马来西亚(移动) [Netflix],🇲🇾 v2ray 马来西亚(联通) [Netflix],url=http://www.gstatic.com/generate_204,interval=300
+🕹AutoTest = url-test,🇹🇼 v2ray 台湾(移动) [Netflix],🇹🇼 v2ray 台湾(联通) [Netflix],🇸🇬 v2ray 新加坡(移动) [Netflix],🇸🇬 v2ray 新加坡(联通) [Netflix],🇯🇵 v2ray 日本(移动) [Netflix],🇯🇵 v2ray 日本(联通) [Netflix],🇺🇸 v2ray 美国(移动) [Netflix],🇺🇸 v2ray 美国(联通) [Netflix],🇰🇷 v2ray 韩国(移动) [Netflix],🇰🇷 v2ray 韩国(联通) [Netflix],🇭🇰 v2ray 香港(移动) [Netflix],🇭🇰 v2ray 香港(联通) [Netflix],🇭🇰 v2ray 香港2(移动) [Netflix],🇭🇰 v2ray 香港2(联通) [Netflix],🇭🇰 v2ray 香港HGC(移动) [Netflix],🇭🇰 v2ray 香港HGC(联通) [Netflix],🇭🇰 v2ray 香港HKBN(移动) [Netflix],🇭🇰 v2ray 香港HKBN(联通) [Netflix],🇭🇰 v2ray 香港HKT(移动) [Netflix],🇭🇰 v2ray 香港HKT(联通) [Netflix],🇲🇾 v2ray 马来西亚(移动) [Netflix],🇲🇾 v2ray 马来西亚(联通) [Netflix],url=http://www.gstatic.com/generate_204,interval=300
+
+[Rule]
+RULE-SET,https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/connershua_clients.list,DIRECT
+RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list,🌐Direct
+RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list,🛡Guard
+RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Hijacking.list,🛡Guard
+RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list,🎞Streaming
+RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list,🎞StreamingSE
+RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list,🌑Proxy
+RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list,🌐Direct
+RULE-SET,https://raw.githubusercontent.com/tindy2013/subconverter/master/base/rules/LocalAreaNetwork.list,DIRECT
+RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/ChinaIP.list,🌐Direct
+RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Game/Game.list,🎮Game
+FINAL,🧭Final,dns-failed
+
+[Host]
+# > Apple
+aaplimg.com = server:119.29.29.29
+apple.com = server:119.29.29.29
+apple.com.cn = server:119.29.29.29
+apple-cloudkit.com = server:119.29.29.29
+apple-livephotoskit.com = server:119.29.29.29
+apple-mapkit.com = server:119.29.29.29
+cdn-apple.com = server:119.29.29.29
+icloud.com = server:119.29.29.29
+icloud.com.cn = server:119.29.29.29
+mzstatic.com = server:119.29.29.29
+*.aaplimg.com = server:119.29.29.29
+*.apple.com = server:119.29.29.29
+*.apple-cloudkit.com = server:119.29.29.29
+*.apple-livephotoskit.com = server:119.29.29.29
+*.apple-mapkit.com = server:119.29.29.29
+*.cdn-apple.com = server:119.29.29.29
+*.icloud.com = server:119.29.29.29
+*.icloud.com.cn = server:119.29.29.29
+*.mzstatic.com = server:119.29.29.29
+*apple.com.akadns.net = server:119.29.29.29
+*.apple.com.edgekey.net = server:119.29.29.29
+*.apple.com.edgekey.net.globalredir.akadns.net = server:119.29.29.29
+*icloud.com.akadns.net = server:119.29.29.29
+
+# > Firebase Cloud Messaging
+mtalk.google.com = 108.177.125.188
+
+# > Google Dl
+dl.google.com = server:119.29.29.29
+dl.l.google.com = server:119.29.29.29
+update.googleapis.com = server:119.29.29.29
+
+# > PlayStation
+*.dl.playstation.net = server:119.29.29.29
+
+# > Router Admin Panel
+amplifi.lan = server:syslib // Ubiquiti Amplifi Router
+router.synology.com = server:syslib // Synology Router
+sila.razer.com = server:syslib // Razer Sila Router
+router.asus.com = server:syslib // Asus Router
+routerlogin.net = server:syslib // Netgear Router
+orbilogin.com = server:syslib // Netgear Obri Router
+www.LinksysSmartWiFi.com = server:syslib // Linksys Router
+LinksysSmartWiFi.com = server:syslib // Linksys Router
+myrouter.local = server:syslib // Linksys Router
+www.miwifi.com = server:syslib // Xiaomi Mi WiFi Router
+miwifi.com = server:syslib // Xiaomi Mi WiFi Router
+mediarouter.home = server:syslib // Huawei Router
+tplogin.cn = server:syslib // TP-Link Router
+tplinklogin.net = server:syslib // TP-Link Router
+melogin.cn = server:syslib // MERCURY Router
+falogin.cn = server:syslib // FAST Router
+
+# 解锁了「模块」功能的用户可以使用 General.sgmodule 后可移除 [URL Rewrite] 及 [MITM] 的「hostname = www.google.cn,api.abema.io」部分
+# 建议使用 General.sgmodule，其他 .sgmodule 按需加入
+# 未解锁「模块」功能的用户不要删除以下内容，参照说明(https://github.com/DivineEngine/Profiles/tree/master/Surge)使用快捷指令更新相关内容。
+
+[Header Rewrite]
+
+[URL Rewrite]
+# Redirect Google Search Service
+^https?:\/\/(www.)?(g|google)\.cn https://www.google.com 302
+
+# Redirect Google Maps Service
+^https?:\/\/(ditu|maps).google\.cn https://maps.google.com 302
+
+# Redirect HTTP to HTTPS
+^https?:\/\/(www.)?taobao\.com\/ https://taobao.com/ 302
+^https?:\/\/(www.)?jd\.com\/ https://www.jd.com/ 302
+^https?:\/\/(www.)?mi\.com\/ https://www.mi.com/ 302
+^https?:\/\/you\.163\.com\/ https://you.163.com/ 302
+^https?:\/\/(www.)?suning\.com\/ https://suning.com/ 302
+^https?:\/\/(www.)?yhd\.com\/ https://yhd.com/ 302
+
+# Redirect False to True
+# > Firefox - www.firefox.com.cn
+^https?:\/\/(www.)?firefox\.com\.cn\/(download\/)?$ https://www.mozilla.org/zh-CN/firefox/new/ 302
+# > IGN China to IGN Global
+^https?:\/\/(www.)?ign\.xn--fiqs8s\/ http://cn.ign.com/ccpref/us 302
+# > Fake Website Made By C&J Marketing
+^https?:\/\/(www.)?abbyychina\.com\/ https://www.abbyy.cn/ 302
+^https?:\/\/(www.)?anydeskchina.cn/ https://anydesk.com/zhs 302
+^https?:\/\/(www.)?bartender\.cc\/ https://www.macbartender.com/ 302
+^https?:\/\/(www.)?(betterzipcn|betterzip)\.(com|net)\/ https://macitbetter.com/ 302
+^https?:\/\/(www.)?beyondcompare\.cc\/ https://www.scootersoftware.com/ 302
+^https?:\/\/(www.)?bingdianhuanyuan\.cn\/ https://www.faronics.com/zh-hans/products/deep-freeze 302
+^https?:\/\/(www.)?chemdraw\.com\.cn\/ https://www.perkinelmer.com.cn/ 302
+^https?:\/\/(www.)?codesoftchina\.com\/ https://www.teklynx.com/ 302
+^https?:\/\/(www.)?coreldrawchina\.com\/ https://www.coreldraw.com/cn/ 302
+^https?:\/\/(www.)?crossoverchina\.com\/ https://www.codeweavers.com/ 302
+^https?:\/\/(www.)?dongmansoft\.com\/ https://www.udongman.cn/ 302
+^https?:\/\/(www.)?earmasterchina\.cn\/ https://www.earmaster.com/ 302
+^https?:\/\/(www.)?easyrecoverychina\.com\/ https://www.ontrack.com/ 302
+^https?:\/\/(www.)?ediuschina\.com\/ https://www.grassvalley.com/ 302
+^https?:\/\/(www.)?flstudiochina\.com\/ https://www.image-line.com/ 302
+^https?:\/\/(www.)?formysql\.com\/ https://www.navicat.com.cn/ 302
+^https?:\/\/(www.)?guitarpro\.cc\/ https://www.guitar-pro.com/ 302
+^https?:\/\/(www.)?huishenghuiying\.com\.cn\/ https://www.coreldraw.com/cn/ 302
+^https?:\/\/hypersnap\.mairuan\.com\/ https://www.hyperionics.com/ 302
+^https?:\/\/(www.)?iconworkshop\.cn\/ https://www.axialis.com/ 302
+^https?:\/\/(www.)?idmchina\.net\/ https://www.internetdownloadmanager.com/ 302
+^https?:\/\/(www.)?imindmap\.cc\/ https://www.ayoa.com/previously-imindmap/ 302
+^https?:\/\/(www.)?jihehuaban\.com\.cn\/ https://www.chartwellyorke.com/sketchpad/x24795.html 302
+^https?:\/\/hypersnap\.mairuan\.com\/ https://www.keyshot.com/ 302
+^https?:\/\/(www.)?kingdeecn\.cn\/ http://www.kingdee.com/ 302
+^https?:\/\/(www.)?logoshejishi\.com https://www.sothink.com/product/logo-design-software/ 302
+^https?:\/\/logoshejishi\.mairuan\.com\/ https://www.sothink.com/product/logo-design-software/ 302
+^https?:\/\/(www.)?luping\.net\.cn\/ https://www.techsmith.com/ 302
+^https?:\/\/(www.)?mathtype\.cn\/ https://www.dessci.com/ 302
+^https?:\/\/(www.)?mindmanager\.(cc|cn)\/ https://www.mindjet.com/cn/ 302
+^https?:\/\/(www.)?mindmapper\.cc\/ https://www.mindmapper.com/ 302
+^https?:\/\/(www.)?(mycleanmymac|xitongqingli)\.com\/ https://macpaw.com/ 302
+^https?:\/\/(www.)?nicelabel\.cc\/ https://www.nicelabel.com/zh/ 302
+^https?:\/\/(www.)?ntfsformac\.cc\/ https://www.tuxera.com/products/tuxera-ntfs-for-mac-cn/ 302
+^https?:\/\/(www.)?ntfsformac\.cn\/ https://china.paragon-software.com/home-mac/ntfs-for-mac/ 302
+^https?:\/\/(www.)?officesoftcn\.com\/ https://www.microsoft.com/zh-cn/microsoft-365 302
+^https?:\/\/(www.)?overturechina\.com\/ https://sonicscores.com/ 302
+^https?:\/\/(www.)?passwordrecovery\.cn\/ https://cn.elcomsoft.com/aopr.html 302
+^https?:\/\/(www.)?pdfexpert\.cc\/ https://pdfexpert.com/zh 302
+^https?:\/\/(www.)?photozoomchina\.com\/ https://www.benvista.com/ 302
+^https?:\/\/(www.)?shankejingling\.com\/ https://www.sothink.com/product/flashdecompiler/ 302
+^https?:\/\/cn\.ultraiso\.net\/ https://cn.ezbsystems.com/ultraiso/ 302
+^https?:\/\/(www.)?vegaschina\.cn\/ https://www.vegascreativesoftware.com/ 302
+^https?:\/\/(www.)?xshellcn\.com\/ https://www.netsarang.com/zh/xshell/ 302
+^https?:\/\/(www.)?yuanchengxiezuo\.com\/ https://www.teamviewer.com/ 302
+^https?:\/\/(www.)?zbrushcn\.com\/ https://pixologic.com/ 302
+
+# AbeamTV - api.abema.io
+^https?:\/\/api\.abema\.io\/v\d\/ip\/check - reject
+
+# AICoin
+^http:\/\/(www.)?aicoin\.cn\/$ https://www.aicoin.com/ 302
+
+# Block Ads Start
+
+# Block Ads End
+
+[Script]
+
+[SSID Setting]
+
+[MITM]
+skip-server-cert-verify = true
+hostname = www.google.cn,www.firefox.com.cn,api.abema.io
